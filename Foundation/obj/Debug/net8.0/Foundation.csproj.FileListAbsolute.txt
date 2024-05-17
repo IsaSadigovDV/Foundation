@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\bin\Debug\net8.0\Foundation.exe
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\bin\Debug\net8.0\Foundation.deps.json
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\bin\Debug\net8.0\Foundation.runtimeconfig.json
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\bin\Debug\net8.0\Foundation.dll
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\bin\Debug\net8.0\Foundation.pdb
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\obj\Debug\net8.0\Foundation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\obj\Debug\net8.0\Foundation.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\obj\Debug\net8.0\Foundation.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\obj\Debug\net8.0\Foundation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\obj\Debug\net8.0\Foundation.dll
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\obj\Debug\net8.0\refint\Foundation.dll
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\obj\Debug\net8.0\Foundation.pdb
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\obj\Debug\net8.0\Foundation.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CSharp\Foundation\Foundation\Foundation\obj\Debug\net8.0\ref\Foundation.dll
